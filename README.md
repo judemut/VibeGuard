@@ -1,6 +1,6 @@
 # 🛡️ VibeGuard | Autonomous AI-First Escrow
 
-**The Neutral AI Mind for Secure BNB Chain Settlements.** Built for the **DoraHacks OpenClaw Edition (Feb 2026)**.
+**The Neutral AI Mind for Secure BNB Chain Settlements.** Built for the **DoraHacks OpenClaw Edition (Feb 2026)**
 
 ---
 
